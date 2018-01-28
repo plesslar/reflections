@@ -1,0 +1,5 @@
+GIT Lessons - Reflections
+
+What happens when you initialize a repository? Why do you need to do it?
+Git creates a hidden .git folder to store metadata that records details of the changes between commits
+
