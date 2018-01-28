@@ -5,3 +5,7 @@ Git creates a hidden .git folder to store metadata that records details of the c
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area is the temporary location for files which are tracked and committed
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+- When making temporary modifications to a program
+- When creating a different language version of the program while maintaining its original version
