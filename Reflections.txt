@@ -9,3 +9,6 @@ The staging area is the temporary location for files which are tracked and commi
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 - When making temporary modifications to a program
 - When creating a different language version of the program while maintaining its original version
+
+How do the diagrams help you visualize the branch structure?
+They provide a clearer spatial relationships of the commit history
