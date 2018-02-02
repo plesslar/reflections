@@ -12,3 +12,5 @@ What are some situations when branches would be helpful in keeping your history 
 
 How do the diagrams help you visualize the branch structure?
 They provide a clearer spatial relationships of the commit history
+
+Reading through the remote repository sections.
