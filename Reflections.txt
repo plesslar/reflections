@@ -14,3 +14,8 @@ How do the diagrams help you visualize the branch structure?
 They provide a clearer spatial relationships of the commit history
 
 Reading through the remote repository sections.
+
+Why might you want to always pull changes manually rather than having 
+Git automatically stay up-to-date with your remote repository?
+Git would automatically update every change including intermediate changes that you might not want to keep.
+By doing this manually, you commit only the changes you want and that make sense.
