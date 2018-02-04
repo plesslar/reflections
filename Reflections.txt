@@ -23,3 +23,11 @@ By doing this manually, you commit only the changes you want and that make sense
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 with clone, we make a full copy of a section from local to local or github to local
 with fork, we copy from GitHib to local
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Not very sure why.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Without using Git or Github, it would be impossible to collaborate in a project with different developers as the 
+many changes that take place in individual coders would just have too many changes taking place too quickly.
+
